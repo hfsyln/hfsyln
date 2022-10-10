@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💁‍♀️I'm interested in Web Development.
+🎈I'm learning HTML,CSS,BOOTSRAP,JS ,REACT..
+
 <!--
 **hfsyln/hfsyln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
